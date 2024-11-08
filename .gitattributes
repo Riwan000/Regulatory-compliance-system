@@ -1,0 +1,6 @@
+C:/Users/LEGION/Desktop/Vultr filter=lfs diff=lfs merge=lfs -text
+GFG filter=lfs diff=lfs merge=lfs -text
+project/Regulatory filter=lfs diff=lfs merge=lfs -text
+compliance filter=lfs diff=lfs merge=lfs -text
+system/Regulatory-compliance-system filter=lfs diff=lfs merge=lfs -text
+Regulatory-compliance-system filter=lfs diff=lfs merge=lfs -text
