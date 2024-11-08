@@ -31,3 +31,11 @@ The **Basel Compliance Dashboard** is a web-based app that monitors financial tr
    - **Vultr** for hosting and storage.
    - **Hugging Face API** for chatbot.
    - **News API** for compliance updates.
+
+
+  ## Conclusion
+
+The Basel Compliance Dashboard is a work-in-progress project designed to enhance regulatory compliance and fraud detection in financial transactions through AI-driven automation. While core features like transaction monitoring, fraud detection, real-time alerts, and the compliance chatbot are functional, further development is needed to refine the system’s scalability, optimize performance, and fully implement security measures for deployment. Upcoming enhancements will focus on fine-tuning the rule-based compliance engine, improving NLP response accuracy, and completing integrations with additional regulatory APIs. 
+
+This README provides an initial setup guide and feature overview, and future updates will document additional components as they are implemented.
+
